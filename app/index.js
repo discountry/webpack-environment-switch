@@ -1,1 +1,1 @@
-console.log('Hello, webpack is using:', API_URL);
+console.log('Hello, app is using:', API_URL);

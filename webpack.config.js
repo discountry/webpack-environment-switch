@@ -9,7 +9,7 @@ var API_URL = {
 
 module.exports = function(env) {
   // check environment mode
-var environment = env === 'production' ? 'production' : 'development';
+  var environment = env === 'production' ? 'production' : 'development';
   return {
     entry: './app/index.js',
     output: {
