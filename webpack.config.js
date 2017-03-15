@@ -5,7 +5,7 @@ var webpack = require('webpack');
 var API_URL = {
   production: JSON.stringify('prod-url'),
   development: JSON.stringify('dev-url')
-}
+};
 
 module.exports = function(env) {
   // check environment mode
