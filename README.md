@@ -39,3 +39,7 @@ npm run prod
 
 * [Building for Production](https://webpack.js.org/guides/production-build/)
 * [Using environment variables](https://webpack.js.org/guides/environment-variables/)
+
+## LICENSE
+
+[MIT](/LICENSE)
