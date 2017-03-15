@@ -34,3 +34,8 @@ Test production
 npm run prod
 // log 'Hello, app is using: prod-url'
 ```
+
+## See also
+
+* [Building for Production](https://webpack.js.org/guides/production-build/)
+* [Using environment variables](https://webpack.js.org/guides/environment-variables/)
